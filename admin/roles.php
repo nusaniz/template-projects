@@ -69,8 +69,7 @@ $endRange = min($offset + $limit, $total);
             </div>
             <!-- /.card-header -->
             <div class="card-body">
-                Role untuk users.
-            </div>
+            Untuk sistem ini, hanya tersedia dua role: <strong>admin</strong> dan <strong>user</strong>. Mohon untuk tidak menghapus role-role ini. Jika Anda memerlukan penambahan role lain atau modifikasi sistem, silakan hubungi developer engineer di <a href="mailto:publik.nizar@gmail.com">DVCORP</a>.            </div>
             <!-- /.card-body -->
         </div>
         <!-- /.card -->

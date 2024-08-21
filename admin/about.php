@@ -10,13 +10,13 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <header class="bg-primary text-white p-3 mt-4">
-        <div class="container">
-            <h1 class="h3">Tentang <?php echo $web_name;?></h1>
-        </div>
-    </header>
-
-    <main class="container mt-3">
+    
+    <main class="container pt-4 pb-4">
+        <header class="bg-primary text-white p-3 mb-3">
+            <div class="container">
+                <h1 class="h3">Tentang <?php echo $web_name;?></h1>
+            </div>
+        </header>
         <section>
             <h2>Selamat Datang di <?php echo $web_name;?></h2>
             <p>
